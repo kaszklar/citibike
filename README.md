@@ -8,4 +8,4 @@ You can find my blog post for this project [here](https://kaszklar.github.io/Cit
 [mvp.ipynb](/mvp.ipynb) - minimum viable product on a 100k sample  
 [geo-munge.ipynb](/geo-munge.ipynb) - playing around with geojson files  
 [usertype-stations.ipynb](/usertype-stations.ipynb) - quick n dirty look into popular stations by user type  
-[citibike-geo-full-manhattan.ipynb](/citibike-geo-full-manhattan.ipynb) -  workflow using full dataset for year 2016 
+[citibike-geo-full-manhattan.ipynb](/citibike-geo-full-manhattan.ipynb) -  workflow using full dataset for year 2017 
