@@ -4,6 +4,8 @@ I worked on this project over the course of 2 weeks during my time at Metis data
 You can find my blog post for this project [here](https://kaszklar.github.io/Citibike/).  
 
 **files**  
+
+[slides.pdf](/slides.pdf)  
 [citibike-init.ipynb](/citibike-init.ipynb) - initial EDA into users   
 [mvp.ipynb](/mvp.ipynb) - minimum viable product on a 100k sample  
 [geo-munge.ipynb](/geo-munge.ipynb) - playing around with geojson files  
